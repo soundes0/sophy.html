@@ -1,0 +1,51 @@
+body{
+    background-color: white;
+}
+#logo{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border: 2px solid pink;
+}
+h1{
+    color:#FF9EAA ;
+}
+ul{
+    color: white;
+}
+
+.price,.schedules,#services{
+    background-color: #FF9EAA;
+    border-radius: 9%;
+    padding: 10px;
+}
+li{
+    color: white;
+}
+.div{
+    background-color: #FFD0D0;
+    border-radius: 9%;
+    display:inline-table;
+    width: 280px;
+    height: 450px; 
+    padding:10px;
+    
+}
+.services{
+    background-color: #FFD0D0;
+    border-radius: 9%;
+    display:inline-table;
+    width: 280px;
+    height: 250px; 
+    padding:10px;
+}
+p{
+    color: white;
+}
+a{
+    color: white;
+}
+.span{
+    color: #FFD0D0;
+    font-weight:bolder;
+}
